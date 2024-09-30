@@ -18,7 +18,7 @@ Print Tela Home Lista Tarefas
 
 Print Tela Perfil
 
-<img src="fotosreadme/Telaperfil.png" alt="Login" style="width:200px;heigth:200px">
+<img src="fotosreadme/telaperfil.png" alt="Login" style="width:200px;heigth:200px">
 
 Relatório de Usuarios
 
