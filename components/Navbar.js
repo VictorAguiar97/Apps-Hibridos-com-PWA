@@ -27,7 +27,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo ou Nome do App */}
         <div className="text-2xl font-bold">
-          <Link href="/home">My Tasks App</Link>
+          <Link href="/home">Tarefas</Link>
         </div>
 
         {/* Menu Normal */}
